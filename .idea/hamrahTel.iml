@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/messenger/Packages/Communicator" isTestSource="false" packagePrefix="GhaniniaIR\Communicator\" />
+      <sourceFolder url="file://$MODULE_DIR$/messenger/database/seeders" isTestSource="false" packagePrefix="Database\Seeders\" />
+      <sourceFolder url="file://$MODULE_DIR$/messenger/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/messenger/src" isTestSource="false" packagePrefix="Src\" />
+      <sourceFolder url="file://$MODULE_DIR$/messenger/src/Shared/Infrastructure/Communicator/src" isTestSource="false" packagePrefix="GhaniniaIR\Communicator\" />
+      <sourceFolder url="file://$MODULE_DIR$/messenger/src/Shared/Infrastructure/Communicator/tests" isTestSource="false" packagePrefix="GhaniniaIR\Communicator\Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/messenger/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/tokenizer/database/seeders" isTestSource="false" packagePrefix="Database\Seeders\" />
+      <sourceFolder url="file://$MODULE_DIR$/tokenizer/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tokenizer/src" isTestSource="false" packagePrefix="Src\" />
+      <sourceFolder url="file://$MODULE_DIR$/tokenizer/tests" isTestSource="true" packagePrefix="Tests\" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
